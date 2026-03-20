@@ -1,6 +1,11 @@
 # lab2-software-architecture-course
 
 [![CI/CD Pipeline](https://github.com/JuanMauwu/lab2-software-architecture-course/actions/workflows/build.yml/badge.svg)](https://github.com/JuanMauwu/lab2-software-architecture-course/actions/workflows/build.yml)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=JuanMauwu_lab2-software-architecture-course&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=JuanMauwu_lab2-software-architecture-course)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=JuanMauwu_lab2-software-architecture-course&metric=bugs)](https://sonarcloud.io/summary/new_code?id=JuanMauwu_lab2-software-architecture-course)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=JuanMauwu_lab2-software-architecture-course&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=JuanMauwu_lab2-software-architecture-course)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=JuanMauwu_lab2-software-architecture-course&metric=coverage)](https://sonarcloud.io/summary/new_code?id=JuanMauwu_lab2-software-architecture-course)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=JuanMauwu_lab2-software-architecture-course&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=JuanMauwu_lab2-software-architecture-course)
 
 Implementation of a Simple App with the next operations:
 
